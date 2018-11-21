@@ -1,0 +1,3 @@
+n = input("Any Number: ")  # I WILL TAKE A NUMBER FROM USER
+n = int(n)   # FROM STR TO INT
+print("Your Number is: ",n)
