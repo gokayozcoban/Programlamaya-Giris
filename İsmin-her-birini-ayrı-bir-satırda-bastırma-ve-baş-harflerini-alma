@@ -1,0 +1,3 @@
+isim = "Mustafa Kemal Atatürk MKA"
+for i in isim.split():
+    print(i)
