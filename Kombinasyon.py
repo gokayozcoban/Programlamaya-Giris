@@ -3,8 +3,8 @@
 #python3
 
 from functools import reduce
-
-
+n = int(input("Birinci sayıyı giriniz: "))
+r = int(input("İkinci sayıyı giriniz: "))
 def com(n, r):
 	if r == 0 or n == r:
 		return 1
